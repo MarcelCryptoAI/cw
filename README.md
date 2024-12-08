@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/Solrikk/TradeWhisper/blob/main/README.md">⭐English ⭐</a> |
+    <a href="https://github.com/Solrikk/TradeWhisper/blob/main/README.md">⭐English⭐</a> |
     <a href="https://github.com/Solrikk/TradeWhisper/blob/main/docs/readme/README_RU.md">Russian</a> |
     <a href="https://github.com/Solrikk/TradeWhisper/blob/main/docs/readme/README_GE.md">German</a> |
     <a href="https://github.com/Solrikk/TradeWhisper/blob/main/docs/readme//README_JP.md">Japanese</a> |
